@@ -1,0 +1,50 @@
+state,latitude,longitude,region
+Alabama,32.7794,-86.8287,Southeast
+Arizona,34.2744,-111.6602,Southwest
+Arkansas,34.8938,-92.4426,South
+California,37.1841,-119.4696,West
+Colorado,38.9972,-105.5478,Southwest
+Connecticut,41.6219,-72.7273,Northeast
+Delaware,38.9896,-75.5050,Northeast
+District of Columbia,38.9101,-77.0147,Northeast
+Florida,28.6305,-82.4497,Southeast
+Georgia,32.6415,-83.4426,Southeast
+Idaho,44.3509,-114.6130,Northwest
+Illinois,40.0417,-89.1965,Ohio Valley
+Indiana,39.8942,-86.2816,Ohio Valley
+Iowa,42.0751,-93.4960,Upper Midwest
+Kansas,38.4937,-98.3804,South
+Kentucky,37.5347,-85.3021,Ohio Valley
+Louisiana,31.0689,-91.9968,South
+Maine,45.3695,-69.2428,Northeast
+Maryland,39.0550,-76.7909,Northeast
+Massachusetts,42.2596,-71.8083,Northeast
+Michigan,44.3467,-85.4102,Upper Midwest
+Minnesota,46.2807,-94.3053,Upper Midwest
+Mississippi,32.7364,-89.6678,South
+Missouri,38.3566,-92.4580,Ohio Valley
+Montana,47.0527,-109.6333,Northern Rockies and Plains
+Nebraska,41.5378,-99.7951,Northern Rockies and Plains
+Nevada,39.3289,-116.6312,West
+New Hampshire,43.6805,-71.5811,Northeast
+New Jersey,40.1907,-74.6728,Northeast
+New Mexico,34.4071,-106.1126,Southwest
+New York,42.9538,-75.5268,Northeast
+North Carolina,35.5557,-79.3877,Southeast
+North Dakota,47.4501,-100.4659,Northern Rockies and Plains
+Ohio,40.2862,-82.7937,Ohio Valley
+Oklahoma,35.5889,-97.4943,South
+Oregon,43.9336,-120.5583,Northwest
+Pennsylvania,40.8781,-77.7996,Northeast
+Rhode Island,41.6762,-71.5562,Northeast
+South Carolina,33.9169,-80.8964,Southeast
+South Dakota,44.4443,-100.2263,Northern Rockies and Plains
+Tennessee,35.8580,-86.3505,Ohio Valley
+Texas,31.4757,-99.3312,South
+Utah,39.3055,-111.6703,Southwest
+Vermont,44.0687,-72.6658,Northeast
+Virginia,37.5215,-78.8537,Southeast
+Washington,47.3826,-120.4472,Northwest
+West Virginia,38.6409,-80.6227,Ohio Valley
+Wisconsin,44.6243,-89.9941,Upper Midwest
+Wyoming,42.9957,-107.5512,Northern Rockies and Plains
