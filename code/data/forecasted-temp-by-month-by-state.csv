@@ -1,0 +1,97 @@
+"Location","Date","Temperature"
+"Alabama",202102,51.0
+"Alabama",202103,63.5
+"Arizona",202102,45.9
+"Arizona",202103,50.9
+"Arkansas",202102,44.3
+"Arkansas",202103,56.5
+"California",202102,49.2
+"California",202103,48.0
+"Colorado",202102,26.5
+"Colorado",202103,38.8
+"Connecticut",202102,34.0
+"Connecticut",202103,41.6
+"Delaware",202102,41.9
+"Delaware",202103,49.5
+"Florida",202102,63.6
+"Florida",202103,71.0
+"Georgia",202102,51.9
+"Georgia",202103,63.2
+"Idaho",202102,26.4
+"Idaho",202103,35.2
+"Illinois",202102,31.9
+"Illinois",202103,44.4
+"Indiana",202102,32.8
+"Indiana",202103,44.6
+"Iowa",202102,24.8
+"Iowa",202103,40.3
+"Kansas",202102,34.8
+"Kansas",202103,47.9
+"Kentucky",202102,39.7
+"Kentucky",202103,51.3
+"Louisiana",202102,54.2
+"Louisiana",202103,67.4
+"Maine",202102,20.0
+"Maine",202103,29.6
+"Maryland",202102,40.8
+"Maryland",202103,49.2
+"Massachusetts",202102,32.4
+"Massachusetts",202103,40.2
+"Michigan",202102,23.6
+"Michigan",202103,35.0
+"Minnesota",202102,14.0
+"Minnesota",202103,30.4
+"Mississippi",202102,50.9
+"Mississippi",202103,64.0
+"Missouri",202102,35.4
+"Missouri",202103,48.8
+"Montana",202102,25.5
+"Montana",202103,31.6
+"Nebraska",202102,29.6
+"Nebraska",202103,41.1
+"Nevada",202102,36.3
+"Nevada",202103,40.4
+"New Hampshire",202102,24.1
+"New Hampshire",202103,34.2
+"New Jersey",202102,39.0
+"New Jersey",202103,46.3
+"New Mexico",202102,38.4
+"New Mexico",202103,48.0
+"New York",202102,26.6
+"New York",202103,37.2
+"North Carolina",202102,47.1
+"North Carolina",202103,56.0
+"North Dakota",202102,17.8
+"North Dakota",202103,29.8
+"Ohio",202102,32.8
+"Ohio",202103,44.7
+"Oklahoma",202102,41.8
+"Oklahoma",202103,55.4
+"Oregon",202102,35.9
+"Oregon",202103,38.8
+"Pennsylvania",202102,33.2
+"Pennsylvania",202103,42.5
+"Rhode Island",202102,35.4
+"Rhode Island",202103,42.6
+"South Carolina",202102,50.9
+"South Carolina",202103,60.5
+"South Dakota",202102,23.5
+"South Dakota",202103,36.3
+"Tennessee",202102,43.4
+"Tennessee",202103,54.8
+"Texas",202102,49.4
+"Texas",202103,63.2
+"Utah",202102,30.9
+"Utah",202103,40.6
+"Vermont",202102,22.4
+"Vermont",202103,33.1
+"Virginia",202102,42.4
+"Virginia",202103,51.7
+"Washington",202102,35.6
+"Washington",202103,38.3
+"West Virginia",202102,38.0
+"West Virginia",202103,47.8
+"Wisconsin",202102,19.2
+"Wisconsin",202103,34.3
+"Wyoming",202102,20.1
+"Wyoming",202103,33.0
