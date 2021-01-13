@@ -1,6 +1,6 @@
 venv
 .ipynb_checkpoints
-data/constructed-output-data.csv
+data/imputed/*.csv
 *.pickle
 *.onnx
 *.rdb
