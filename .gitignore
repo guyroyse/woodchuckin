@@ -1,7 +1,2 @@
 .DS_Store
 .vscode
-venv
-.ipynb_checkpoints
-code/data/constructed-output-data.csv
-*.pickle
-*.onnx

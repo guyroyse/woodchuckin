@@ -1,0 +1,6 @@
+venv
+.ipynb_checkpoints
+data/constructed-output-data.csv
+*.pickle
+*.onnx
+*.rdb
