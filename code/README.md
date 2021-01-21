@@ -53,7 +53,7 @@ If you don't have Redis installed locally, you can use Docker for `redis-cli`:
 
     $ docker run -it --network host --rm redis redis-cli
 
-Regardless, one you'rer in `redis-cli`, just use the RG.TRIGGER command followed by the event you want to trigger and the latitude and longitude. For example, here's the prediction for Punxsutawney, Pennsylvania:
+Regardless, one you're in `redis-cli`, just use the RG.TRIGGER command followed by the event you want to trigger and the latitude and longitude. For example, here's the prediction for Punxsutawney, Pennsylvania:
 
     > RG.TRIGGER woodchuckin 40.9437 -78.9709
 
